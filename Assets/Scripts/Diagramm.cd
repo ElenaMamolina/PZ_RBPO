@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AccountLoginInFirebase" BaseTypeListCollapsed="true">
+    <Position X="23" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\AccountLoginInFirebase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AdministrativeInformationFromFirebase" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\AdministrativeInformationFromFirebase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DataLoggerForFirebase" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\DataLoggerForFirebase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ErrorFirebase">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="ErrorManager" FixedToPoint="true">
+      <Path>
+        <Point X="12.25" Y="3.934" />
+        <Point X="12.25" Y="4.096" />
+        <Point X="11.812" Y="4.096" />
+        <Point X="11.812" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\ErrorFirebase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FirebaseConnectionManager" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\FirebaseConnectionManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FirebaseDataDownloadManager" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\FirebaseDataDownloadManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FirebaseMessagingManager" BaseTypeListCollapsed="true">
+    <Position X="30" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAACAgAgAAIACABABAAAGIAAAAAIAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\FirebaseMessagingManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FirebaseUpdateProfileData" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAgAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\FirebaseUpdateProfileData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProfileLoaderFromFirebase" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\ProfileLoaderFromFirebase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewingSomeoneElseIsProfileForFirebase" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AdapterFirebase\ViewingSomeoneElseIsProfileForFirebase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AdministrativeInformation">
+    <Position X="14" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\AdministrativeInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Authorization">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAAAAAAAAAAAAABAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\Authorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConnectionManager">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\ConnectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorManager">
+    <Position X="11.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\ErrorManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MessagingManager">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAAgQASAACAAAAAAAAAAAgAACAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\MessagingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Profile">
+    <Position X="9.25" Y="6" Width="1.5" />
+    <InheritanceLine Type="Initialization" FixedToPoint="true">
+      <Path>
+        <Point X="7.75" Y="6.108" />
+        <Point X="7.75" Y="6.483" />
+        <Point X="9" Y="6.483" />
+        <Point X="9" Y="5.75" />
+        <Point X="10.188" Y="5.75" />
+        <Point X="10.188" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gABAMJAEAAAQACAAAABgwBAAACQAAAgBQABAAQAEAAE=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProfileOfAllUsers">
+    <Position X="16.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\ProfileOfAllUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecepientProfile">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEAAAAAYAAACAAAAAAAAAAEAQIAAAAACAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\RecepientProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Registration">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAEAgAAAAAAAAAAAAAAABAAAAUAAACBAIAAI=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\Registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="15.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAABAAAAAAAAAACACAAAABAAAAACAAAAAAAAEABgA=</HashCode>
+      <FileName>Assets\Scripts\ForObjects\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatBuilder" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAACAAAAAAQAAAAAAAAAKAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForPrefabs\ChatBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Message">
+    <Position X="13.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAACAAAAAAAAQIAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForPrefabs\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserForList">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACAAAAAAgAIAAAAAAAAgAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ForPrefabs\UserForList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initialization">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAAACAAAIQAAAAAAAEAIAEgAAAAAAIEg=</HashCode>
+      <FileName>Assets\Scripts\Initialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderPhotoUrl">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" FixedFromPoint="true">
+      <Path>
+        <Point X="7.562" Y="0.5" />
+        <Point X="7.562" Y="0.125" />
+        <Point X="5.25" Y="0.125" />
+        <Point X="5.25" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAACAE=</HashCode>
+      <FileName>Assets\Scripts\LoaderPhotoUrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="IAdministrativeInformationProvider">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IAdministrativeInformationProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IAuth">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IAuth.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IDatabaseConnector">
+    <Position X="23.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IDatabaseConnector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IDataProvider">
+    <Position X="25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IDataProvider.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ILogger">
+    <Position X="19.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IMessagingManager">
+    <Position X="21.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAIACAAAAAAAGAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IMessagingManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IProfileLoader">
+    <Position X="23.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IProfileLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IUpdaterProfile">
+    <Position X="25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IUpdaterProfile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IWatcher">
+    <Position X="19.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interface\IWatcher.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WindowsApp">
+    <Position X="0.5" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEAAAAAAAAAAEACAAAAAAAEAABAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enum\WindowsApp.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625574545718",
+    "firebase_url": "https://euapp-e7cd0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "euapp-e7cd0",
+    "storage_bucket": "euapp-e7cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625574545718:android:200fc2ef753425b3108b97",
+        "android_client_info": {
+          "package_name": "com.BPZMamolina.EU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625574545718-vrsohti69d8qp7ekhqhk74v9e4vj62ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEfSBiu7BJpEPMHloaUB6JqO8T4kicJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625574545718-vrsohti69d8qp7ekhqhk74v9e4vj62ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625574545718-fc7bf83d9v5e46lnsp0igeu8vrfd4b7o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BPZMamolina.EU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
